@@ -1,0 +1,37 @@
+a {
+  text-decoration: none;
+}
+
+#wrapper {
+  max-width: 940px;
+  margin: 0 auto;
+}
+
+#logo {
+  text-align: center;
+}
+
+a {
+  color: #3b3a36;
+}
+
+header {
+  background: #c0dfd9;
+  border-color: #3b3a36;
+}
+
+h1, h2 {
+  color: #fff;
+}
+
+nav {
+  background: #b3c2bf;
+}
+
+nav a:hover, nav a:hover {
+  background: #e9ece5;
+}
+
+ul {
+  list-style-type: none;
+}
